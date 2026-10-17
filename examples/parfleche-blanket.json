@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "name": "Sixfold Chevron Blanket",
+  "width": 12,
+  "height": 12,
+  "created_at": "2024-06-12T09:30:00+00:00",
+  "pigments": [
+    {
+      "name": "ochre",
+      "symbol": "o",
+      "recipe": "Iron oxide earth roasted to a red-brown. Grind fine on a stone, then temper with hide glue until it flows like cream; two coats read as one solid field."
+    },
+    {
+      "name": "azurite",
+      "symbol": "a",
+      "recipe": "Azurite ground coarse and washed three times to throw off the pale green. Bind with hide glue; keep the wash thin so the rawhide stays supple."
+    },
+    {
+      "name": "charcoal",
+      "symbol": "k",
+      "recipe": "Willow charcoal milled to a soft black. Sift through muslin to drop the grit, then mix with a little glue and a drop of ox gall so it wets out."
+    },
+    {
+      "name": "bone white",
+      "symbol": "w",
+      "recipe": "Calcined bone, slaked and ground to a chalky white. Lay it on last and thick, since it will not cover over a dark earth once that has dried."
+    }
+  ],
+  "cells": [
+    [
+      null,
+      null,
+      null,
+      null,
+      "bone white",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "bone white",
+      null,
+      "azurite",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "bone white",
+      null,
+      "azurite",
+      "azurite",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "bone white",
+      null,
+      "azurite",
+      "azurite",
+      "ochre",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "bone white",
+      null,
+      "azurite",
+      "azurite",
+      "ochre",
+      "ochre",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "azurite",
+      "azurite",
+      "ochre",
+      "ochre",
+      "charcoal",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+# Parfleche runtime dependencies: none.
+#
+# parfleche.py uses the Python 3.8+ standard library only (argparse, cmd, json,
+# shlex, dataclasses, datetime, pathlib), so there is nothing to install for the
+# tool itself. The test suite runs on pytest, which ships with the build image,
+# or on the standard library's unittest runner with no extra packages:
+#
+#   python3 -m pytest -q
+#   python3 -m unittest discover -s tests -v
