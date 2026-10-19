@@ -95,7 +95,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-No external services required: the entire recipe command-line tool runs from this Full-stack app repo (22 files). Top-level layout: `examples/`, `tests/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+No external services required: the entire recipe command-line tool runs from this Full-stack app repo (12 files). Top-level layout: `examples/`, `tests/`. Run `./install.sh` once to install packages and populate demo data — the app is ready to use immediately after. Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
